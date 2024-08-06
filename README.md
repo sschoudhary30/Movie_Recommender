@@ -8,3 +8,7 @@ Data Crunching: We analyze a vast dataset of movies, extracting key details like
 Smart Matching: Our algorithm calculates similarities between movies based on these details, finding your perfect matches. 🧠
 User-Friendly Interface: Enjoy a seamless experience with our Streamlit-powered app. Simply input your preferences, and let the recommendations flow! 🍿
 Whether you're a die-hard action fan or a romantic comedy lover, we've got you covered. Let's find your next movie night masterpiece together! 🎬
+
+# Note: Install following lib
+
+# streamlit , pickle, pandas, request
